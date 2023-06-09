@@ -8,12 +8,12 @@
 
 body {
  
-  background: #465a63;
+  background: #fa930b;
 }
 
 h1{
   text-align: center;
-  color: rgb(236, 236, 97);
+  color: rgb(3, 33, 71);
 }
 .container {
   position: relative;
@@ -59,7 +59,7 @@ h1{
   position: absolute;
   top: 0;
   left: 0;
-  background:crimson;
+  background:rgb(22, 3, 59);
   width: 100%;
   height: 100%;
   transform: scaleX(0);
@@ -98,7 +98,7 @@ h1{
   font-size: 1.3rem;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: rgb(233, 210, 227);
+  color: rgb(243, 183, 18);
 }
 
 .container .card .contentBx .content p {
